@@ -7,11 +7,12 @@ import { Button } from 'react-bootstrap';
 
 
 const bodypart = [
-  "Pussy", "Ass", "Feet", "Hands", "Tities", "Face", "Mouth", "Fingers", "Chest", "Back", "Dick", "Hears"
+  "Tetas", "Pito", "Toto", "Nalgas","Pies","Dedos de las manos", "Dedos de los pies","Cuello", "Espalda", "Barriga", "Muslos", "Orejas",
+  "Boca", "Ojitos", "Huevos", "Culo"
 ];
 
 const playpart = [
-  "Touch", "Suck", "Lick", "Kiss"
+  "Mamar", "Chupar", "Lamer", "Besar", "Acariciar", "Escupir", "Olvida lo demas, masturbarse juntos", "Olvida lo demas, follar"
 ];
 
 const timeGame = [
